@@ -3,5 +3,5 @@
 
 const persona = {
     nombre : 'Tony',
-    edad: 45
+    edad: 45,
 }
