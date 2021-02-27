@@ -32,4 +32,4 @@ const getUsuarioActivo = ( nombre ) => ({
     uid: 'ABC123',
     username: 'lol',
 })
-console.log( getUsuarioActivo);
+console.log( getUsuarioActivo('uriel'));
